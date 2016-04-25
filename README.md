@@ -1,6 +1,5 @@
 #### Project-TheSite-2
 
-"Devbridge Group" uzduotis.
 
 This is responsive website template (replicated the provided design mockup in HTML and CSS).
 
